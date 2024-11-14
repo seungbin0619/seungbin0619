@@ -3,7 +3,7 @@
 ## 🧅 didvk 🧅
 
   
-[![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dev0&theme=dark)](https://solved.ac/dev0)
+![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dev0&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dev0)](https://solved.ac/dev0)
 
