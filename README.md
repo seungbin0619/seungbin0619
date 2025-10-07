@@ -18,6 +18,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ###
-[![wakatime](https://wakatime.com/badge/github/seungbin0619/seungbin0619.svg)](https://wakatime.com/badge/github/seungbin0619/seungbin0619)
+[![wakatime](https://wakatime.com/badge/user/2eff14c0-bb11-4ac9-ab27-c6a4cf0547d5.svg)](https://wakatime.com/@2eff14c0-bb11-4ac9-ab27-c6a4cf0547d5)
 
 </div>
