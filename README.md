@@ -14,9 +14,7 @@
 
 <div align="center">
     <img src="img/learning-card-unity.png" alt="Unity" width="31%">
-    &nbsp;
     <img src="img/learning-card-optimization.png" alt="Optimization" width="31%">
-    &nbsp;
     <a href="https://solved.ac/dev0">
         <img src="img/learning-card-ps.png" alt="PS" width="31%">
     </a>
