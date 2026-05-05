@@ -12,18 +12,10 @@
 
 ## Currently Learning & Exploring
 
-<table width="100%">
-  <tr>
-    <td align="center">
-        <img src="img/learning-card-unity.png" alt="Unity" width="100%">
-    </td>
-    <td align="center">
-        <img src="img/learning-card-optimization.png" alt="Optimization" width="100%">
-    </td>
-    <td align="center">
-        <a href="https://solved.ac/dev0">
-            <img src="img/learning-card-ps.png" alt="PS" width="100%">
-        </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+    <img src="img/learning-card-unity.png" alt="Unity" width="32%">
+    <img src="img/learning-card-optimization.png" alt="Optimization" width="32%">
+    <a href="https://solved.ac/dev0">
+        <img src="img/learning-card-ps.png" alt="PS" width="32%">
+    </a>
+</div>
