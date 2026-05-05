@@ -21,3 +21,24 @@
 </div>
 
 ## Projects
+
+<a href="https://store.steampowered.com/app/3745860/_/">
+    <img src="img/project-card-space-revolver.png" alt="Space Revolver">
+</a>
+<a href="https://store.steampowered.com/app/2134300/ParkTo/">
+    <img src="img/project-card-lost-tales.png" alt="Lost Tales">
+</a>
+<a href="https://store.steampowered.com/app/2134300/ParkTo/">
+    <img src="img/project-card-parkto.png" alt="ParkTo">
+</a>
+
+## Log (Since 2025-01)
+
+[![wakatime](https://wakatime.com/badge/user/2eff14c0-bb11-4ac9-ab27-c6a4cf0547d5.svg?style=for-the-badge)](https://wakatime.com/@2eff14c0-bb11-4ac9-ab27-c6a4cf0547d5)
+
+
+## Contact
+
+- Email: seungbin0619@naver.com
+- Discord: .448aff
+- Blog: [Onion Dev (Naver)](https://blog.naver.com/onion-dev)
