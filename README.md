@@ -8,7 +8,7 @@
 - 🎓 Senior CS student at Sejong University
 - 🕹️ Dedicated Unity Game Developer
 - 🎨 Digital artist and gamer during free time
-- ✍️ Archiving technical insights on my blog
+- ✍️ Archiving technical insights on my [blog](https://blog.naver.com/onion-dev)
 
 ## Currently Learning & Exploring
 
